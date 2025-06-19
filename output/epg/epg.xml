@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250619102959 +0800">
+<tv date="20250619112900 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2364,116 +2364,110 @@
 	<channel id="北京卫视">
 		<display-name lang="zh">北京卫视</display-name>
 	</channel>
-	<programme channel="北京卫视" start="20250619000900 +0800" stop="20250619005200 +0800">
-		<title lang="zh">红星剧场:蛮好的人生(31)</title>
+	<programme channel="北京卫视" start="20250619004600 +0800" stop="20250619013700 +0800">
+		<title lang="zh">紫禁城(11):破晓</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619005200 +0800" stop="20250619013500 +0800">
-		<title lang="zh">红星剧场:蛮好的人生(32)</title>
-	</programme>
-	<programme channel="北京卫视" start="20250619013500 +0800" stop="20250619013900 +0800">
+	<programme channel="北京卫视" start="20250619013700 +0800" stop="20250619014000 +0800">
 		<title lang="zh">晚间气象服务</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619013900 +0800" stop="20250619021700 +0800">
-		<title lang="zh">我的桃花源2(4)</title>
+	<programme channel="北京卫视" start="20250619014000 +0800" stop="20250619022100 +0800">
+		<title lang="zh">身边</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619021700 +0800" stop="20250619030000 +0800">
-		<title lang="zh">好梦剧场</title>
+	<programme channel="北京卫视" start="20250619022100 +0800" stop="20250619030500 +0800">
+		<title lang="zh">档案:逢五而兴-追光世界电影(3)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619030000 +0800" stop="20250619034300 +0800">
-		<title lang="zh">好梦剧场</title>
+	<programme channel="北京卫视" start="20250619030500 +0800" stop="20250619034500 +0800">
+		<title lang="zh">档案:逢五而兴-追光世界电影(4)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619034300 +0800" stop="20250619042500 +0800">
-		<title lang="zh">好梦剧场</title>
+	<programme channel="北京卫视" start="20250619034500 +0800" stop="20250619042800 +0800">
+		<title lang="zh">风声(27)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619042500 +0800" stop="20250619050900 +0800">
-		<title lang="zh">好梦剧场</title>
+	<programme channel="北京卫视" start="20250619042800 +0800" stop="20250619051200 +0800">
+		<title lang="zh">风声(28)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619050900 +0800" stop="20250619051200 +0800">
-		<title lang="zh">大美北京</title>
-	</programme>
-	<programme channel="北京卫视" start="20250619051200 +0800" stop="20250619054200 +0800">
-		<title lang="zh">养生堂精编版</title>
-	</programme>
-	<programme channel="北京卫视" start="20250619054200 +0800" stop="20250619060300 +0800">
+	<programme channel="北京卫视" start="20250619051200 +0800" stop="20250619053300 +0800">
 		<title lang="zh">法治进行时</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619060300 +0800" stop="20250619062000 +0800">
+	<programme channel="北京卫视" start="20250619053300 +0800" stop="20250619055300 +0800">
 		<title lang="zh">法治进行时</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619062000 +0800" stop="20250619065500 +0800">
-		<title lang="zh">养生堂精编版</title>
+	<programme channel="北京卫视" start="20250619055300 +0800" stop="20250619065500 +0800">
+		<title lang="zh">养生堂:警惕凶险的夏季腹痛</title>
 	</programme>
 	<programme channel="北京卫视" start="20250619065500 +0800" stop="20250619070000 +0800">
 		<title lang="zh">早间气象服务</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619070000 +0800" stop="20250619090500 +0800">
+	<programme channel="北京卫视" start="20250619070000 +0800" stop="20250619090300 +0800">
 		<title lang="zh">北京您早</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619090500 +0800" stop="20250619095300 +0800">
+	<programme channel="北京卫视" start="20250619090300 +0800" stop="20250619093600 +0800">
+		<title lang="zh">为你喝彩</title>
+	</programme>
+	<programme channel="北京卫视" start="20250619093600 +0800" stop="20250619102400 +0800">
 		<title lang="zh">上午剧场:藏海传(36)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619095300 +0800" stop="20250619104200 +0800">
+	<programme channel="北京卫视" start="20250619102400 +0800" stop="20250619110900 +0800">
 		<title lang="zh">上午剧场:藏海传(37)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619104200 +0800" stop="20250619120000 +0800">
+	<programme channel="北京卫视" start="20250619110900 +0800" stop="20250619120000 +0800">
 		<title lang="zh">上午剧场:藏海传(38)</title>
 	</programme>
 	<programme channel="北京卫视" start="20250619120000 +0800" stop="20250619125800 +0800">
 		<title lang="zh">特别关注</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619125800 +0800" stop="20250619130200 +0800">
+	<programme channel="北京卫视" start="20250619125800 +0800" stop="20250619130500 +0800">
 		<title lang="zh">午间气象服务</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619130200 +0800" stop="20250619134700 +0800">
+	<programme channel="北京卫视" start="20250619130500 +0800" stop="20250619135000 +0800">
+		<title lang="zh">身边</title>
+	</programme>
+	<programme channel="北京卫视" start="20250619135000 +0800" stop="20250619143600 +0800">
 		<title lang="zh">午茶剧场:看不见影子的少年(8)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619134700 +0800" stop="20250619143200 +0800">
+	<programme channel="北京卫视" start="20250619143600 +0800" stop="20250619152500 +0800">
 		<title lang="zh">午茶剧场:看不见影子的少年(9)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619143200 +0800" stop="20250619151800 +0800">
+	<programme channel="北京卫视" start="20250619152500 +0800" stop="20250619161800 +0800">
 		<title lang="zh">午茶剧场:看不见影子的少年(10)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619151800 +0800" stop="20250619160400 +0800">
+	<programme channel="北京卫视" start="20250619161800 +0800" stop="20250619170900 +0800">
 		<title lang="zh">午茶剧场:看不见影子的少年(11)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619160400 +0800" stop="20250619170800 +0800">
-		<title lang="zh">午茶剧场:看不见影子的少年(12)</title>
-	</programme>
-	<programme channel="北京卫视" start="20250619170800 +0800" stop="20250619172500 +0800">
+	<programme channel="北京卫视" start="20250619170900 +0800" stop="20250619172500 +0800">
 		<title lang="zh">暖暖的味道</title>
 	</programme>
 	<programme channel="北京卫视" start="20250619172500 +0800" stop="20250619183000 +0800">
 		<title lang="zh">养生堂</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619183000 +0800" stop="20250619185400 +0800">
+	<programme channel="北京卫视" start="20250619183000 +0800" stop="20250619185500 +0800">
 		<title lang="zh">北京新闻</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619185400 +0800" stop="20250619190000 +0800">
-		<title lang="zh">北京天气预报</title>
+	<programme channel="北京卫视" start="20250619185500 +0800" stop="20250619190000 +0800">
+		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619190000 +0800" stop="20250619193200 +0800">
-		<title lang="zh">转播央视新闻联播</title>
+	<programme channel="北京卫视" start="20250619190000 +0800" stop="20250619193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619193200 +0800" stop="20250619201900 +0800">
+	<programme channel="北京卫视" start="20250619193000 +0800" stop="20250619201600 +0800">
 		<title lang="zh">品质剧场:藏海传(39)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619201900 +0800" stop="20250619210500 +0800">
+	<programme channel="北京卫视" start="20250619201600 +0800" stop="20250619210800 +0800">
 		<title lang="zh">品质剧场:藏海传(40)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619210500 +0800" stop="20250619214300 +0800">
-		<title lang="zh">我是大医生</title>
+	<programme channel="北京卫视" start="20250619210800 +0800" stop="20250619213800 +0800">
+		<title lang="zh">为你喝彩</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619214300 +0800" stop="20250619223100 +0800">
-		<title lang="zh">老师请回答</title>
+	<programme channel="北京卫视" start="20250619213800 +0800" stop="20250619214500 +0800">
+		<title lang="zh">同心共筑-我的金质一隅(44)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619223100 +0800" stop="20250619231100 +0800">
-		<title lang="zh">我是大医生</title>
+	<programme channel="北京卫视" start="20250619214500 +0800" stop="20250619223000 +0800">
+		<title lang="zh">红星剧场:蛮好的人生(31)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619231100 +0800" stop="20250619235200 +0800">
-		<title lang="zh">红星剧场:蛮好的人生(33)</title>
+	<programme channel="北京卫视" start="20250619223000 +0800" stop="20250619231800 +0800">
+		<title lang="zh">红星剧场:蛮好的人生(32)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250619235200 +0800" stop="20250619235900 +0800">
-		<title lang="zh">红星剧场:蛮好的人生(34)</title>
+	<programme channel="北京卫视" start="20250619231800 +0800" stop="20250619235900 +0800">
+		<title lang="zh">紫禁城(12)</title>
 	</programme>
 	<channel id="大湾区卫视">
 		<display-name lang="zh">大湾区卫视</display-name>
