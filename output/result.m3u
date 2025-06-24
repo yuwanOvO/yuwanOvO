@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yuwanOvO/yuwanOvO/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-06-24 18:29:58
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-06-25 06:27:06
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -438,6 +438,8 @@ http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://116.128.242.83:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://iptv.huuc.edu.cn/hls/szhd.m3u8
@@ -455,8 +457,6 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
 http://live.xmcdn.com/live/252/64.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
@@ -618,9 +618,9 @@ https://stream1.freetv.fun/fei-cui-6.ctv
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 https://stream1.freetv.fun/fei-cui-1.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
-http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
